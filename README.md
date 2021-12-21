@@ -2,7 +2,7 @@
 
 
 #Used React hook for this app
-  'useState` & `useReduce`
+  `useState` & `useReduce`
 
 
 
